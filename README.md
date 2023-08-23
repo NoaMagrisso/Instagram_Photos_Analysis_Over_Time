@@ -9,7 +9,9 @@ When making insights on business attractions, such as placement of booth locatio
 We provide an easy-to-use tool for displaying those changes over time on a heatmap intuitively, allowing food stall owners to deduce where to place their stalls, where to concentrate on cleaning and placing trash cans, etc.
 
 
-#### Please pay attention! The notebook can't render due to its size which is bigger than 10MB, but after downloading the notebook to your local computer, you can open it on Google Colab.
+#### Please pay attention! The notebook can't be rendered due to its size which is bigger than 10MB, but after downloading the notebook to your local computer, you can open it on Google Colab.
+
+
 
 
 ## Examples of the visualizations:
