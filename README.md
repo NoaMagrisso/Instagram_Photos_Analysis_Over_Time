@@ -6,7 +6,10 @@ In this project [`Shaked Sapir`](https://github.com/shaked-sapir/) and I collect
 
 When making insights on business attractions, such as placement of booth locations in entertainment sites and locating areas requiring frequent maintenance, a preliminary acquaintance with the different areas of the place which are observed by visitors over different periods in time, may contribute to the selection of areas to focus on  in the future, so that the booth owners can maximize their financial profit or making logistics much easier. As a case study, by analyzing Instagram media taken at the "Woodland Park Zoo” in Seattle (Washington, United States), we will locate the "hot" regions (most visited) in the zoo over time - per season/per month/per hour, so we can bring some business and financial insights to managers’ knowledge.
 
-We provide an easy-to-use tool for displaying those changes over time on a heatmap intuitively, allowing food stall owners to deduce where to place their stalls, where to concentrate focus in cleaning and placing trash cans, etc.
+We provide an easy-to-use tool for displaying those changes over time on a heatmap intuitively, allowing food stall owners to deduce where to place their stalls, where to concentrate on cleaning and placing trash cans, etc.
+
+
+#### Please pay attention! The notebook can't render due to its size which is bigger than 10MB, but after downloading the notebook to your local computer, you can open it on Google Colab.
 
 
 ## Examples of the visualizations:
