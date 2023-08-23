@@ -27,6 +27,6 @@ We provide an easy-to-use tool for displaying those changes over time on a heatm
 ![This is an image](https://github.com/NoaMagrisso/Instagram_Photos_Analysis_Over_Time/blob/main/visualizations/winter_season.JPG)
 
 
-### Here you can see how, given a heatmap, you can add a marker in order to make decisions regarding the location of your stand, picnic areas, or anything you'd like - so it will be located close to the "hot" regions and display the coordinates of the point
+#### Here you can see how, given a heatmap, you can add a marker in order to make decisions regarding the location of your stand, picnic areas, or anything you'd like - so it will be located close to the "hot" regions and display the coordinates of the point
 
 ![This is an image](https://github.com/NoaMagrisso/Instagram_Photos_Analysis_Over_Time/blob/main/visualizations/optimal_location_on_September.JPG)
