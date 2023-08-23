@@ -12,11 +12,11 @@ We provide an easy-to-use tool for displaying those changes over time on a heatm
 ## Examples of the visualizations:
 
 
-##### Summer Season Heatmap - 
+#### Summer Season Heatmap - 
 
 ![This is an image](https://github.com/NoaMagrisso/Instagram_Photos_Analysis_Over_Time/blob/main/visualizations/summer_season.JPG)
 
 
-##### Winter Season Heatmap - 
+#### Winter Season Heatmap - 
 
 ![This is an image](https://github.com/NoaMagrisso/Instagram_Photos_Analysis_Over_Time/blob/main/visualizations/winter_season.JPG)
