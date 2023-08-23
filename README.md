@@ -33,4 +33,4 @@ By this project we implemented a search engine on Wikipedia, as we asked to do u
 | PageRank | id, page rank table |
 
 
-![This is an image](https://github.com/NoaMagrisso/Search_Engine-IRProject/blob/main/README_image.JPG)
+![This is an image](https://github.com/NoaMagrisso/Instagram_Photos_Analysis_Over_Time/blob/main/visualizations/summer_season.JPG)
